@@ -20,6 +20,8 @@
 ##letters from ato z.
 
 
+
+
 def printer_error(s):
     # your code
     den=len(s)
